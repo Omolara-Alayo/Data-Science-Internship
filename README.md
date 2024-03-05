@@ -1,2 +1,2 @@
-# SQL_tut
-This is the SQL tutorial repo
+# Data Science Internship
+This is my Data Science Internship portfolio.
