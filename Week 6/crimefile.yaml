@@ -1,0 +1,14 @@
+file_type: csv
+dataset_name: crime_data2013-2022
+file_name: test_data
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - Crime ID
+    - Year
+    - Month
+    - LSOA Name
+    - LSOA Code
+    - Crime Type

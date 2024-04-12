@@ -1,0 +1,6 @@
+crime_id,Year,Month,LSOA_code,LSOA_name,Crime_type
+0,2013,1,E01014399,Bath and North East Somerset 001A,Anti-social behaviour
+1,2013,1,E01014399,Bath and North East Somerset 001A,Burglary
+2,2013,1,E01014399,Bath and North East Somerset 001A,Other theft
+3,2013,1,E01014400,Bath and North East Somerset 001B,Anti-social behaviou
+4,2013,1,E01014400,Bath and North East Somerset 001B,Shoplifting
